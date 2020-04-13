@@ -1,0 +1,10 @@
+server.port=8090
+server.servlet.context-path=/api/mac-address
+MAC-HOST=https://api.macaddress.io/v1?apiKey=at_6Oign7NZajd9cqbjLoF8nDlXJc7Oc&output=json
+
+#server.ssl.key-alias=macaddress
+#server.ssl.key-password=changeit
+#server.ssl.key-store=classpath:macaddress.jks
+#server.ssl.key-store-provider=SUN
+#server.ssl.key-store-type=JKS
+#security.require-ssl=false
